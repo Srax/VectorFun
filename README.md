@@ -31,6 +31,14 @@ https://www.codecogs.com/latex/eqneditor.php
 <a href="https://www.codecogs.com/eqnedit.php?latex=Vector&space;\vec{F}&space;=&space;(4.99,&space;0.05)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?Vector&space;\vec{F}&space;=&space;(5,&space;0.05)" title="Vector \vec{F} = (5, 0.05)" /></a>
 </li>
 <li><a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{5^2&plus;0,0548^2}&space;=&space;5" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\sqrt{5^2&plus;0,0548^2}&space;=&space;5" title="\sqrt{5^2+0,0548^2} = 5" /></a></li>
+
+## Multiplication of a Vector with a Scalar
+<li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{b}&space;=&space;(-4*5,5*5)&space;=&space;(-20,25)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\vec{b}&space;=&space;(-4*5,5*5)&space;=&space;(-20,25)" title="\vec{b} = (-4*5,5*5) = (-20,25)" /></a></li>
+<li><a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|\vec{a}&space;\right&space;|&space;=&space;\sqrt{-4^2&plus;5*2}=3" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\left&space;|\vec{a}&space;\right&space;|&space;=&space;\sqrt{-4^2&plus;5*2}=3" title="\left |\vec{a} \right | = \sqrt{-4^2+5*2}=3" /></a></li>
+<li></li>
+<li></li>
+<li></li>
+
 </ol>
 
 
