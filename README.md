@@ -23,12 +23,10 @@ https://www.codecogs.com/latex/eqneditor.php
 
 ##Vector Decomposition
 
-<ol type="a" start="6>
+<ol type="a">
 <li>w</li>
 <li></li>
 <li></li>
-
-
 </ol>
 
 
