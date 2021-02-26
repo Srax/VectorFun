@@ -1,9 +1,10 @@
-#Assignment 2 - Vectors
+#Assignment 2 - VectorFun
 
 ##Vector Basics
 
 <ol type="a">
-  <li>Coffee</li>
+  <li>\sqrt[3]</li>
   <li>Tea</li>
   <li>Milk</li>
-</ol>"# VectorFun" 
+</ol>
+\sqrt{k}
