@@ -49,15 +49,16 @@ Then you find the length:
 <br/>
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|a&space;\right&space;|&space;=&space;\sqrt{3^2&plus;0^2}&space;=&space;3" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\left&space;|a&space;\right&space;|&space;=&space;\sqrt{3^2&plus;0^2}&space;=&space;3" title="\left |a \right | = \sqrt{3^2+0^2} = 3" /></a>
 <br/>
-Then you device each cordinate with the length
+Then you devide each cordinate with the length
 <br/>
-<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;3/3,0/0)&space;=&space;(1,0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\hat{a}&space;=&space;3/3,0/0)&space;=&space;(1,0)" title="\hat{a} = 3/3,0/0) = (1,0)" /></a>
-<br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;3/3,0/3)&space;=&space;(1,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{a}&space;=&space;3/3,0/3)&space;=&space;(1,0)" title="\hat{a} = 3/3,0/3) = (1,0)" /></a><br/>
 So the formula will be
 <br/>
-<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;(\left&space;|a&space;\right&space;|/3,\left&space;|a&space;\right&space;|/0)&space;=&space;(1,0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\hat{a}&space;=&space;(\left&space;|a&space;\right&space;|/3,\left&space;|a&space;\right&space;|/0)&space;=&space;(1,0)" title="\hat{a} = (\left |a \right |/3,\left |a \right |/0) = (1,0)" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;(3/&space;\left&space;|&space;a&space;\right&space;|,0|/\left&space;|a&space;\right&space;|&space;)&space;=&space;(1,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{a}&space;=&space;(3/&space;\left&space;|&space;a&space;\right&space;|,0|/\left&space;|a&space;\right&space;|&space;)&space;=&space;(1,0)" title="\hat{a} = (3/ \left | a \right |,0|/\left |a \right | ) = (1,0)" /></a>
+<br/>
 </li>
-<li></li>
+<li><a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|&space;a&space;\right&space;|&space;=&space;\sqrt{3^2&plus;2^2}=3,61" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\left&space;|&space;a&space;\right&space;|&space;=&space;\sqrt{3^2&plus;2^2}=3,61" title="\left | a \right | = \sqrt{3^2+2^2}=3,61" /></a>
+</li>
 <li></li>
 
 </ol>
