@@ -21,12 +21,16 @@ https://www.codecogs.com/latex/eqneditor.php
 
 ## Vector Decomposition
 
-<li><a href="https://www.codecogs.com/eqnedit.php?latex=F_x&space;=&space;5*cos(\pi/5)=4,99" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_x&space;=&space;5*cos(\pi/5)=4,99" title="F_x = 5*cos(\pi/5)=4,99" /></a>
+<li><a href="https://www.codecogs.com/eqnedit.php?latex=F_x&space;=&space;5*cos(\pi/5)=4,99" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_x&space;=&space;5*cos(\pi/5)=5" title="F_x = 5*cos(\pi/5)=4,5" /></a>
+<br/>
 <a href="https://www.codecogs.com/eqnedit.php?latex=F_y&space;=&space;5*sin(\pi/5)=0,0548" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_y&space;=&space;5*sin(\pi/5)=0,0548" title="F_y = 5*sin(\pi/5)=0,0548" /></a>
 </li>
-
-<li></li>
-<li></li>
+<li>
+<a href="https://www.codecogs.com/eqnedit.php?latex=Vector&space;\vec{F}&space;=&space;(\left&space;\|\vec{F}&space;\right&space;\|*cos(\Theta&space;),&space;\left&space;\|\vec{F}&space;\right&space;\|*sin(\Theta&space;))" target="_blank"><img src="https://latex.codecogs.com/svg.latex?Vector&space;\vec{F}&space;=&space;(\left&space;\|\vec{F}&space;\right&space;\|*cos(\Theta&space;),&space;\left&space;\|\vec{F}&space;\right&space;\|*sin(\Theta&space;))" title="Vector \vec{F} = (\left \|\vec{F} \right \|*cos(\Theta ), \left \|\vec{F} \right \|*sin(\Theta ))" /></a>
+<br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=Vector&space;\vec{F}&space;=&space;(4.99,&space;0.05)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?Vector&space;\vec{F}&space;=&space;(5,&space;0.05)" title="Vector \vec{F} = (5, 0.05)" /></a>
+</li>
+<li><a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{5^2&plus;0,0548^2}&space;=&space;5" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\sqrt{5^2&plus;0,0548^2}&space;=&space;5" title="\sqrt{5^2+0,0548^2} = 5" /></a></li>
 </ol>
 
 
