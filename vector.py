@@ -26,7 +26,7 @@ print(mag([3,2]))
 print(unit([3,2]))
 #print(mag([7,-2]
 #print(unit([7,-2]))
-
+print(mag( [-4,5]))
 print(mag( [-20,25]))
 
 
