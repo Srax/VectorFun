@@ -3,7 +3,7 @@
 ##Vector Basics
 
 <ol type="a">
-  <li>\$\sqrt{3}$</li>
+  <li>$\sqrt{3}$</li>
   <li>Tea</li>
   <li>Milk</li>
 </ol>
