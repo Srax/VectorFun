@@ -9,7 +9,6 @@ def mag(vec):
     ##power of each number
     vec = np.power(vec,2)
     vec = np.sum(vec)
-    print(vec)
     return np.sqrt(vec)
 
 print("Lengeth of Vector: (3,5)")
@@ -20,14 +19,14 @@ print(mag([3,5]))
 def unit(vec):
     vec = np.array(vec)
     magnitude = mag(vec)
-    vec = np.divide(vec,magnitude)
-    return vec
+    return np.divide(vec,magnitude)
 
 #print("Unit of Vector: (3,2)")
 print(mag([3,2]))
 print(unit([3,2]))
-#print(mag([7,-2]))
+#print(mag([7,-2]
 #print(unit([7,-2]))
 
+print(mag( [-20,25]))
 
 
