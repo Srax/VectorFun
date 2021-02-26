@@ -1,6 +1,6 @@
-#Assignment 2 - VectorFun
+# Assignment 2 - VectorFun
 
-##Vector Basics
+## Vector Basics
 I have done these by hand, but to show how I calculated them I turned them into pictures using: 
 https://www.codecogs.com/latex/eqneditor.php
 
@@ -21,7 +21,7 @@ https://www.codecogs.com/latex/eqneditor.php
 </ol>
 
 
-##Vector Decomposition
+## Vector Decomposition
 
 <ol type="a">
 <li>w</li>
