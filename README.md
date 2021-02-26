@@ -9,4 +9,4 @@
 </ol>
 $\sqrt{3}$
 
-![\Large \sqrt{(7-0}^2+(8-0)^2 = 10.63](https://latex.codecogs.com/gif.latex?\sqrt{(7-0}^2&plus;(8-0)^2&space;=&space;10.63) 
+![\sqrt{(7-0}^2+(8-0)^2 = 10.63](https://latex.codecogs.com/gif.latex?\sqrt{(7-0}^2&plus;(8-0)^2&space;=&space;10.63) 
