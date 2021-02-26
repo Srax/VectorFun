@@ -10,7 +10,7 @@ https://www.codecogs.com/latex/eqneditor.php
   <li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{\left&space;|a&space;\right&space;|}&space;=\sqrt{3^2&space;&plus;&space;5^2}&space;=&space;5,83" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{\left&space;|a&space;\right&space;|}&space;=\sqrt{3^2&space;&plus;&space;5^2}&space;=&space;5,83" title="\vec{\left |a \right |} =\sqrt{3^2 + 5^2} = 5,83" /></a></li>
   <li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{res}&space;=&space;(2&plus;5,-2&plus;2)&space;=&space;(7,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{res}&space;=&space;(2&plus;5,-2&plus;2)&space;=&space;(7,0)" title="\vec{res} = (2+5,-2+2) = (7,0)" /></a></li>
   <li>
-  <ol>
+  <ol type="1">
   <li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&plus;\vec{b}&space;=&space;(3&plus;5,2&plus;1)&space;=&space;(8,3)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&plus;\vec{b}&space;=&space;(3&plus;5,2&plus;1)&space;=&space;(8,3)" title="\vec{a}+\vec{b} = (3+5,2+1) = (8,3)" /></a></li>
   <li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{b}&plus;\vec{c}&space;=&space;(5&plus;-2,1&plus;6)&space;=&space;(3,7)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{b}&plus;\vec{c}&space;=&space;(5&plus;-2,1&plus;6)&space;=&space;(3,7)" title="\vec{b}+\vec{c} = (5+-2,1+6) = (3,7)" /></a></li>
   <li></li>
