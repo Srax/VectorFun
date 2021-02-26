@@ -24,9 +24,10 @@ def unit(vec):
     return vec
 
 #print("Unit of Vector: (3,2)")
-#print(unit([3,2]))
-print(mag([7,-2]))
-##print(unit([7,-2]))
+print(mag([3,2]))
+print(unit([3,2]))
+#print(mag([7,-2]))
+#print(unit([7,-2]))
 
 
 
