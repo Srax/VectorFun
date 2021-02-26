@@ -7,4 +7,4 @@
   <li>Tea</li>
   <li>Milk</li>
 </ol>
-\sqrt{k}
+$\sqrt{3}$
