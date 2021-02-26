@@ -83,5 +83,7 @@ Formula:
 </li>
 </ol>
 
+### Rest of the assignment is in vector.py
+
 
 
