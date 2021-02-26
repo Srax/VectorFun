@@ -68,7 +68,7 @@ So the formula will be
 <br/>
 <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;(7/7.28,-2/2.28)&space;=&space;(0.96,-27)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{a}&space;=&space;(7/7.28,-2/2.28)&space;=&space;(0.96,-27)" title="\hat{a} = (7/7.28,-2/2.28) = (0.96,-27)" /></a>
 </li>
-## Dot Product / Scalar Product
+<h2> Dot Product / Scalar Product </h2>
 There is also a different way to calculate dot product which I used:
 <br/>
 Formula:
