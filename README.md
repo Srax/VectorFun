@@ -17,13 +17,9 @@ https://www.codecogs.com/latex/eqneditor.php
   <li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&plus;(\vec{b}&space;&plus;&space;\vec{c})&space;=&space;(3&plus;3,2&plus;7)&space;=&space;(6,9)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&plus;(\vec{b}&space;&plus;&space;\vec{c})&space;=&space;(3&plus;3,2&plus;7)&space;=&space;(6,9)" title="\vec{a}+(\vec{b} + \vec{c}) = (3+3,2+7) = (6,9)" /></a></li>
   <li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&plus;\vec{b}&space;=&space;(5&plus;3,1&plus;2)&space;=&space;(8,3)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&plus;\vec{b}&space;=&space;(5&plus;3,1&plus;2)&space;=&space;(8,3)" title="\vec{a}+\vec{b} = (5+3,1+2) = (8,3)" /></a></li>
   </ol>
-  </li>
-</ol>
-
 
 ## Vector Decomposition
 
-<ol type="a">
 <li>w</li>
 <li></li>
 <li></li>
