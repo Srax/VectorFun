@@ -18,10 +18,12 @@ https://www.codecogs.com/latex/eqneditor.php
   <li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&plus;\vec{b}&space;=&space;(5&plus;3,1&plus;2)&space;=&space;(8,3)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{a}&plus;\vec{b}&space;=&space;(5&plus;3,1&plus;2)&space;=&space;(8,3)" title="\vec{a}+\vec{b} = (5+3,1+2) = (8,3)" /></a></li>
   </ol>
   </li>
-  <li></li>
+
+##Vector Decomposition
+  <li>w</li>
   <li></li>
 </ol>
 
-##Vector Decomposition
+
 
 
