@@ -34,7 +34,29 @@ https://www.codecogs.com/latex/eqneditor.php
 ## Multiplication of a Vector with a Scalar
 <li><a href="https://www.codecogs.com/eqnedit.php?latex=\vec{b}&space;=&space;(-4*5,5*5)&space;=&space;(-20,25)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\vec{b}&space;=&space;(-4*5,5*5)&space;=&space;(-20,25)" title="\vec{b} = (-4*5,5*5) = (-20,25)" /></a></li>
 <li><a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|\vec{a}&space;\right&space;|&space;=&space;\sqrt{-4^2&plus;5*2}=3" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\left&space;|\vec{a}&space;\right&space;|&space;=&space;\sqrt{-4^2&plus;5*2}=3" title="\left |\vec{a} \right | = \sqrt{-4^2+5*2}=3" /></a></li>
-<li></li>
+<li><a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|\vec{a}&space;\right&space;|&space;=&space;\sqrt{-2^2&plus;25*2}=15" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;|\vec{a}&space;\right&space;|&space;=&space;\sqrt{-2^2&plus;25*2}=15" title="\left |\vec{a} \right | = \sqrt{-2^2+25*2}=15" /></a></li>
+<li><a href="https://www.codecogs.com/eqnedit.php?latex=(1,0)*4&space;=&space;(1*4,0*4)&space;=&space;(4,0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?(1,0)*4&space;=&space;(1*4,0*4)&space;=&space;(4,0)" title="(1,0)*4 = (1*4,0*4) = (4,0)" /></a></li>
+<li><a href="https://www.codecogs.com/eqnedit.php?latex=(1,3)*0.5&space;=&space;(1*0.5,3*0.5)&space;=&space;(0.5,1,5)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?(1,3)*0.5&space;=&space;(1*0.5,3*0.5)&space;=&space;(0.5,1,5)" title="(1,3)*0.5 = (1*0.5,3*0.5) = (0.5,1,5)" /></a></li>
+
+## Unit Vectors
+<li>You find the unit vector by finding the length of the vector and then use that number to device with to get the corresponding coordinate
+<br/>
+Example:
+<br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{a}&space;=&space;(3,0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\vec{a}&space;=&space;(3,0)" title="\vec{a} = (3,0)" /></a>
+<br/>
+Then you find the length:
+<br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|a&space;\right&space;|&space;=&space;\sqrt{3^2&plus;0^2}&space;=&space;3" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\left&space;|a&space;\right&space;|&space;=&space;\sqrt{3^2&plus;0^2}&space;=&space;3" title="\left |a \right | = \sqrt{3^2+0^2} = 3" /></a>
+<br/>
+Then you device each cordinate with the length
+<br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;3/3,0/0)&space;=&space;(1,0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\hat{a}&space;=&space;3/3,0/0)&space;=&space;(1,0)" title="\hat{a} = 3/3,0/0) = (1,0)" /></a>
+<br/>
+So the formula will be
+<br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;(\left&space;|a&space;\right&space;|/3,\left&space;|a&space;\right&space;|/0)&space;=&space;(1,0)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\hat{a}&space;=&space;(\left&space;|a&space;\right&space;|/3,\left&space;|a&space;\right&space;|/0)&space;=&space;(1,0)" title="\hat{a} = (\left |a \right |/3,\left |a \right |/0) = (1,0)" /></a>
+</li>
 <li></li>
 <li></li>
 
