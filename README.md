@@ -66,10 +66,20 @@ So the formula will be
 <a href="https://www.codecogs.com/eqnedit.php?latex=\left&space;|&space;a&space;\right&space;|&space;=&space;\sqrt{7^2&plus;-2^2}&space;=&space;6,71" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;a&space;\right&space;|&space;=&space;\sqrt{7^2&plus;-2^2}&space;=&space;6,71" title="\left | a \right | = \sqrt{7^2+-2^2} = 6,71" /></a>
 <br/>
 <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{a}&space;=&space;(7/6.71,-2/6.71)&space;=&space;(1.04,-0.3)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\hat{a}&space;=&space;(7/6.71,-2/6.71)&space;=&space;(1.04,-0.3)" title="\hat{a} = (7/6.71,-2/6.71) = (1.04,-0.3)" /></a>
+
+## Dot Product / Scalar Product
+There is also a different way to calculate dot product which I used:
+<br/>
+Formula:
+<br/>
+<a href="https://www.codecogs.com/eqnedit.php?latex=a*b&space;=&space;a_x*b_x&plus;a_y*b_y" target="_blank"><img src="https://latex.codecogs.com/svg.latex?a*b&space;=&space;a_x*b_x&plus;a_y*b_y" title="a*b = a_x*b_x+a_y*b_y" /></a>
+
 <li>
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=2*4&plus;3*6=26" target="_blank"><img src="https://latex.codecogs.com/svg.latex?2*4&plus;3*6=26" title="2*4+3*6=26" /></a>
 </li>
-
+<li>
+<a href="https://www.codecogs.com/eqnedit.php?latex=2*-3&plus;3*2=0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?2*-3&plus;3*2=0" title="2*-3+3*2=0" /></a>
+</li>
 </ol>
 
 
