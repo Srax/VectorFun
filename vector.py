@@ -61,7 +61,8 @@ print("~a*~b =")
 print(np.dot(a,b))
 #(æ) Using  your rot90function,  find  the  dot  product  ofaand  its  rotation.(That is, given~ar=rot90(a), find~a·~ar)
 print("~a*rot90(a) = ")
-print(np.dot(a,rot90(a)))
+print(np.dot([a],[-2,3]))
+print(str(a) + " " + str(rot90(a)))
 
 
 
